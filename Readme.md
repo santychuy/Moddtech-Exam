@@ -19,7 +19,7 @@ pod install
 
 #### Reality
 
-. The final time to finish the App was: **4 Hours and 27 Minutes** 😅.
+. The final time to finish the App was: **4 Hours and 27 Minutes** (plus the time that I'm writing this) 😅.
 
 ![FinalTime](Final-Time.png)
 
