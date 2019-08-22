@@ -1,10 +1,11 @@
-#Moddtech Exam
+# Moddtech Exam
 
 . The App is to display concerts that are available on the API of Ticketmaster and search it by artist. 🎧 🎤
 
-####Instructions
+## Instructions
 
 . Need to install the dependencies for the project (Cocoapods):
+
 ```
 cd project
 pod install
@@ -12,18 +13,17 @@ pod install
 
 . And ready to go!
 
-####Expected Time
+#### Expected Time
 
 . To build this app I expect a limit of **4 hours maximum** to build it. (I'm writing this before building the app, so let's get to work! 📱).
 
-####Reality
+#### Reality
 
-. The final time to finish the App was: **4 Hours and 27 Minutes** 😅. 
+. The final time to finish the App was: **4 Hours and 27 Minutes** 😅.
 
 ![FinalTime](Final-Time.png)
 
-
-####Features to add in the future
+#### Features to add in the future
 
 - Design a better prototype for UI and UX.
 - Display more information of the artist on **DetailsVC** (Dates, Location, etc.)
